@@ -3,7 +3,7 @@
 - Anatoly Parshintsev  
 - Fedor Veselovsky  
 - Igor Chervatyuk  
-- Sergey Matveev  
+- Sergei Matveev  
 
 # Testing
 
